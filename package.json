@@ -1,0 +1,21 @@
+{
+  "name": "logseq-generic-fetch",
+  "version": "0.0.1",
+  "author": "elijahsgh",
+  "main": "index.html",
+  "description": "Generic fetch with terminal",
+  "license": "MIT",
+  "devDependencies": {
+    "@logseq/libs": "^0.0.1-alpha.29"
+  },
+  "browserslist": [
+    "chrome 80"
+  ],
+  "logseq": {
+    "id": "logseq-generic-fetch",
+    "icon": "logseq.png"
+  },
+  "dependencies": {
+    "@xterm/xterm": "^5.5.0"
+  }
+}
